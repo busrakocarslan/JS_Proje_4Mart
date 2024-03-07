@@ -1,0 +1,1 @@
+My wallet application project that I created with local storage. With this project, I aimed to calculate the income and expense calculations recorded in the local warehouse
